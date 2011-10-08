@@ -1,0 +1,114 @@
+*
+{
+    cursor: crosshair !important;
+}
+
+#webdeveloper-element-information
+{
+    -moz-opacity: 0.9 !important;
+    background-color: #ffff99 !important;
+    border: 1px solid #ffcc66 !important;
+    left: 5px;
+    max-width: 40em !important;
+    min-width: 20em !important;
+    opacity: 0.9 !important;
+    position: absolute !important;
+    top: 5px;
+    z-index: 2147483647 !important;
+}
+
+#webdeveloper-element-information, #webdeveloper-element-information *
+{
+    color: #000000 !important;
+    font-family: sans-serif !important;
+		font-size: 10px !important;
+		font-style: normal !important;
+		font-variant: normal !important;
+		font-weight: normal !important;
+    height: auto !important;
+		letter-spacing: 0 !important;
+		line-height: normal !important;
+		text-align: left !important;
+		text-decoration: none !important;
+		text-transform: none !important;
+    width: auto !important;
+}
+
+#webdeveloper-element-information, #webdeveloper-element-information dd, #webdeveloper-element-information dl, #webdeveloper-element-information dt, #webdeveloper-element-information h2, #webdeveloper-element-information p, #webdeveloper-element-information table, #webdeveloper-element-information td
+{
+    margin: 0 !important;
+}
+
+#webdeveloper-element-information, #webdeveloper-element-information dl, #webdeveloper-element-information p, #webdeveloper-element-information table
+{
+    padding: 0 !important;
+}
+
+#webdeveloper-element-information.force-width
+{
+    width: 20em !important;
+}
+
+#webdeveloper-element-information dd, #webdeveloper-element-information dd *
+{
+    cursor: text !important;
+}
+
+#webdeveloper-element-information dd, #webdeveloper-element-information dt
+{
+    border-color: #ffcc66 !important;
+    border-style: solid !important;
+    border-width: 1px 0 0 0 !important;
+}
+
+#webdeveloper-element-information dd, #webdeveloper-element-information dt, #webdeveloper-element-information h2
+{
+    padding: 0 5px !important;
+}
+
+#webdeveloper-element-information dt
+{
+    background-color: #ffee88 !important;
+    background-image: url(chrome://webdeveloper/content/images/arrow_down.png) !important;
+    background-position: 95% 50% !important;
+    background-repeat: no-repeat !important;
+    cursor: pointer !important;
+}
+
+#webdeveloper-element-information dt, #webdeveloper-element-information h2
+{
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+
+#webdeveloper-element-information dt.collapsed
+{
+    background-image: url(chrome://webdeveloper/content/images/arrow_left.png) !important;
+}
+
+#webdeveloper-element-information dt.collapsed + dd
+{
+    display: none !important;
+}
+
+#webdeveloper-element-information h2
+{
+    background-color: #ffcc66 !important;
+    cursor: move !important;
+}
+
+#webdeveloper-element-information table
+{
+    border-collapse: collapse !important;
+}
+
+#webdeveloper-element-information td
+{
+    padding: 0 10px 0 0 !important;
+    vertical-align: top !important;
+}
+
+#webdeveloper-element-information *
+{
+    border-style: none !important;
+}

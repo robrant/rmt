@@ -1,0 +1,2957 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB">
+ <head>
+  <meta charset="iso-8859-1" />
+  <!-- 1711
+			// -->
+  <script type="text/javascript">
+   window.onerror = function (msg, url, num) {
+					RIGHTMOVE_JS_ERROR = "Message:" + msg + ', URL:' + url + ', Line:' + num;
+					return false;
+				};
+  </script>
+  <script type="text/javascript">
+   var RIGHTMOVE_REQUEST = {
+					jsTime : (new Date()).getTime(),
+					trcid : "ed461624-487a-49b7-b3f2-ba27acbbdabf",
+					reqTime : "t=1315710194409569",
+					svr : "1711",
+					uri : "/property-for-sale/find.html"
+				};
+  </script>
+  <link rel="stylesheet" type="text/css" href="/ps/css11245/concat/standard.css" media="all" />
+  <link rel="stylesheet" type="text/css" href="/ps/css11245/concat/searchResult.css" media="all" />
+  <!--[if IE 9]>
+				<link rel="stylesheet" type="text/css" href="/ps/css11245/ie9.css"  />
+			<![endif]-->
+  <!--[if IE 8]>
+				<link rel="stylesheet" type="text/css" href="/ps/css11245/ie8.css"  />
+			<![endif]-->
+  <!--[if IE 7]>
+				<link rel="stylesheet" type="text/css" href="/ps/css11245/ie7.css"  />
+			<![endif]-->
+  <!--[if IE 6]>
+				<link rel="stylesheet" type="text/css" href="/ps/css11245/ie6.css"  />
+			<![endif]-->
+  <noscript>
+   <link rel="stylesheet" type="text/css" href="/ps/css11245/nojs.css" />
+  </noscript>
+  <script type="text/javascript" src="/ps/js11245/concat/standard.js">
+  </script>
+  <script type="text/javascript">
+   RIGHTMOVE.UTIL.loadTime.init(RIGHTMOVE_REQUEST);
+				RIGHTMOVE.UTIL.encodedUrl = "/;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D";
+  </script>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+	(function() {
+		var src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		RIGHTMOVE.loadJSAsync(src);
+	})();
+  </script>
+  <title>
+   SG5 4FX flats. Find flats for sale in SG5 4FX
+  </title>
+  <meta name="description" content="Find flats for sale in SG5 4FX. Search over 900,000 properties for sale from the top estate agents and developers in the UK - Rightmove." />
+  <meta name="robots" content="noindex,follow" />
+  <link rel="shortcut icon" href="/ps/images/icons/favicon.ico" />
+  <link rel="alternate" type="application/rss+xml" title="Find flats for sale in SG5 4FX" href="http://www.rightmove.co.uk/rss/property-for-sale/find.html?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on" />
+  <!--[if IE]>
+<meta name="slice" scheme="IE" content="off" />
+<![endif]-->
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-3350334-1']);
+		
+			_gaq.push(['_addOrganic', 'search.bt.com', 'p']);
+			_gaq.push(['_addOrganic', 'talktalk.co.uk', 'query']);
+			_gaq.push(['_addOrganic', 'sky.com', 'term']);
+			_gaq.push(['_addOrganic', 'mywebsearch.com', 'searchfor']);
+			_gaq.push(['_addOrganic', 'tesco.net', 'q']);
+			_gaq.push(['_addOrganic', 'mws.ask.com', 'searchfor']);
+			_gaq.push(['_addOrganic', 'myway.com', 'searchfor']);
+			_gaq.push(['_addOrganic', 'results.ispconnect.co.uk', 'SearchQuery']);
+			_gaq.push(['_addOrganic', 'search.freecause.com', 'p']);
+            _gaq.push(['_addOrganic', 'mybroadband.three.co.uk', 'q']);
+        
+		_gaq.push(['_setAllowAnchor', true]);
+
+		
+
+        _gaq.push(['_setCampaignCookieTimeout', 0]);
+		
+		/*todo SAN: change below so pageToTrack is set in a JSP function, server side rather than client side*/
+		var rmPageToTrack = 'buying/searchresults'=="" ? window.location.pathname.replace(/(.html)[\?;\/].*|\?.*/,"$1") : 'buying/searchresults';
+		_gaq.push(['_trackPageview', rmPageToTrack]);
+        _gaq.push(['_trackPageLoadTime']);
+  </script>
+ </head>
+ <body id="searchresults" class="newfp maps compact">
+  <script type="text/javascript">
+   jQuery(document).ready(function() {
+			document.cookie="rmtcj=2688; path=/";
+		});
+  </script>
+  <div id="sitewrapper">
+   <!--[if IE 6]>
+    	<div class="clearfix dontPrint" style="background-color:#FF6666;height:24px;padding-top:0.5em;text-align:center;">
+            Rightmove.co.uk no longer supports Internet Explorer 6. &nbsp; Please update to the latest <a href="http://www.microsoft.com/windows/internet-explorer/" target="_blank"><b>Internet Explorer</b></a>, <a href="http://www.mozilla.com/firefox/" target="_blank"><b>Firefox</b></a>, <a href="http://www.google.co.uk/chrome/" target="_blank"><b>Chrome</b></a> or <a href="http://www.apple.com/safari/" target="_blank"><b>Safari</b></a>.
+    	</div>
+    	<![endif]-->
+   <div id="siteheader" class="clearfix">
+    <div id="signedin">
+     <div id="myrm">
+      <div id="link-registerlinks" class="registerlinks">
+       <span id="menu-login">
+        <a id="link-myrightmove-login" class="lightboxSignIn registersource-global-header" title="Sign in" rel="nofollow" href="/login.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don&amp;hideFromParameterOnRegisterURI=true">
+         Sign in
+        </a>
+       </span>
+       or
+       <span id="menu-register">
+        <a id="link-myrightmove-register" class="registersource-global-header" title="Create Account" href="/register.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+         Create Account
+        </a>
+       </span>
+      </div>
+      <div id="menu-myrightmove" class="clearfix">
+       <a class="lightboxSignIn myrm registersource-myrightmove" rel="nofollow" href="/user/saved-searches/redirect.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        My Rightmove
+       </a>
+      </div>
+     </div>
+    </div>
+    <div id="sitelogo">
+     <a title="Click to return to Rightmove homepage" href="/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+      <img src="/ps/images11245/header/site_logo_strapless.gif" alt="Rightmove property search for flats and houses for sale and for rent" />
+     </a>
+    </div>
+    <div id="sitemenu" class="clearfix">
+     <ul id="menu">
+      <li id="menu-forsale" class="selected first">
+       <a title="Search for homes to buy in the UK" href="/property-for-sale.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        For Sale
+       </a>
+      </li>
+      <li id="menu-torent">
+       <a title="Search for property to rent in the UK" href="/property-to-rent.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        To Rent
+       </a>
+      </li>
+      <li id="menu-newhomes">
+       <a title="New homes for sale in the UK" href="/property-for-sale/new-homes.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        New Homes
+       </a>
+      </li>
+      <li id="menu-commercial">
+       <a title="Commercial" href="/commercial-property-to-let.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        Commercial
+       </a>
+      </li>
+      <li id="menu-agents">
+       <a title="Find estate agents and letting agents in the UK" href="/estate-agents.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        Find Agents
+       </a>
+      </li>
+      <li id="menu-houseprices">
+       <a title="House prices in the UK" href="/house-prices.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        House Prices
+       </a>
+      </li>
+      <li id="menu-propertynews">
+       <a href="/news/" target="_blank" title="Property News">
+        Blog
+       </a>
+      </li>
+      <li id="menu-overseas">
+       <a title="Property for sale overseas" target="_blank" href="/overseas-property.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        Overseas
+       </a>
+      </li>
+      <li id="menu-studentlettings">
+       <a title="Student Accommodation" target="_blank" href="/student-accommodation.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+        Students
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <div id="pageheader">
+    <h1>
+     Find flats for sale in SG5 4FX
+    </h1>
+   </div>
+   <div id="pagewrapper" class="clearfix ">
+    <div id="pagecontent" class="clearfix ">
+     <div class="hslice" id="webslice">
+      <a rel="feedurl" href="http://www.rightmove.co.uk/rss/webslice/property-for-sale/find.html?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on" style="display:none;">
+      </a>
+      <h3 class="entry-title" style="display:none;">
+       Find flats for sale in SG5 4FX
+      </h3>
+     </div>
+     <div class="primarycontent">
+      <div class="content">
+       <div id="resultsOptions">
+        <ul id="pagelinks">
+         <li>
+          <a class="priority2" id="link-rss" title="Find flats for sale in SG5 4FX" href="http://www.rightmove.co.uk/rss/property-for-sale/find.html?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+           RSS
+          </a>
+         </li>
+         <li>
+          <a class="priority2" id="link-print" title="Print page" href="#" onclick="window.print();return false">
+           Print
+          </a>
+         </li>
+         <script type="text/javascript">
+          $("#link-print").show();
+         </script>
+         <li id="switchchannel">
+          <a title="SG5 4FX property to rent" href="/property-to-rent/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481">
+           Property to rent in SG5 4FX
+          </a>
+         </li>
+        </ul>
+        <ul id="viewresults" class="clearfix">
+         <!--<span>View:</span>-->
+         <li class="selected clearfix">
+          <span class="left">
+          </span>
+          <div>
+           List of properties
+          </div>
+          <span class="right">
+          </span>
+         </li>
+         <li class="clearfix">
+          <span class="left">
+          </span>
+          <a id="propmap" href="/property-for-sale/map.html?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on" rel="nofollow">
+           Properties on map
+          </a>
+          <span class="right">
+          </span>
+         </li>
+         <script type="text/javascript">
+          RIGHTMOVE.UTIL.analytics.trackEventOnClick("#propmap", "buying-search-results","features","properties-on-map");
+         </script>
+        </ul>
+        <div id="sort" class="clearfix">
+         <h3 id="numberOfProperties">
+          <span id="resultcount">
+           179
+          </span>
+          flats for sale found
+         </h3>
+         <ul id="sortresults">
+          <span>
+           Sort by:
+          </span>
+          <li>
+           <a id="down" title="Click to sort results by lowest price" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;sortByPriceDescending=false&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+            Lowest price
+           </a>
+          </li>
+          <li>
+           <span class="selected">
+            Highest price
+           </span>
+          </li>
+         </ul>
+        </div>
+       </div>
+       
+       
+       <ul id="showcase" class="clearfix">
+        <!--initial showcaseme-->
+        <li id="showcaseme" class="first" style="background:#005747">
+         <h2 class="header">
+          FEATURED AGENT
+         </h2>
+         <div class="photos">
+          <a href="/products/featured-agent/redirect.html?showcaseMeId=9482" class="photo" id="showcaseMeImageLink" target="showcaseMe" rel="nofollow" style="border-color:#005747">
+           <img src="http://media.rightmove.co.uk/6k/5159/sm_31353_9482_34_00_0001.jpg" alt="Country Properties, Flitwick" title="Country Properties, Flitwick" class="fixedPic teaser" />
+          </a>
+         </div>
+         <div class="details">
+          <h2 class="address">
+           <a id="showcaseMeTextLink" rel="nofollow" target="showcaseMe" href="/products/featured-agent/redirect.html?showcaseMeId=9482" style="color:#FFFFFF">
+            <br />
+            <br />
+            Sell or let your home with Country Properties
+           </a>
+          </h2>
+         </div>
+         <div class="agent">
+          <div class="branchlogo">
+           <a href="/products/featured-agent/redirect.html?showcaseMeId=9482" class="photo" id="showcaseMeImageLink" target="showcaseMe" rel="nofollow">
+            <img src="http://media.rightmove.co.uk/6k/5159/sm_31353_9482_35_00_0001.JPG" alt="Country Properties, Flitwick" title="Country Properties, Flitwick" class="fixedPic teaser" />
+           </a>
+          </div>
+         </div>
+         <p id="showcaseMeTermsAndConditionsLink">
+          &nbsp;
+         </p>
+        </li>
+        <!--showcase properties-->
+        <!-- promoted showcase mes-->
+        <!--showcase teasers-->
+        <li class="ukShowcase">
+         <h2 class="header">
+          &nbsp;
+         </h2>
+         <div class="bigphoto">
+          <a id="showcaseTeaserImageLink" class="photo" href="http://www.rightmove.co.uk/sell-my-house-fast">
+           <img src="/ps/images/icons/resale_lettings_showcase_teaser_main_image.jpg" alt="Upgrade your listing" class="fixedPic teaser" />
+          </a>
+         </div>
+         <div class="details">
+          <p class="address" style="overflow: visible;font-weight: bold;">
+           <a id="showcaseTeaserTextLink" href="http://www.rightmove.co.uk/sell-my-house-fast">
+            Last year only half of the properties put on the market sold. Don't leave it to chance
+           </a>
+          </p>
+         </div>
+         <div class="agent">
+          <div class="featuredlogo">
+           <a href="http://www.rightmove.co.uk/sell-my-house-fast">
+            <img src="/ps/images/icons/resale_lettings_showcase_teaser_bp_image3.png" alt="Upgrade your listing" title="Upgrade your listing" />
+           </a>
+          </div>
+         </div>
+        </li>
+        <li class="ukShowcase">
+         <h2 class="header">
+          &nbsp;
+         </h2>
+         <div class="bigphoto">
+          <a id="showcaseTeaserImageLink" class="photo" href="http://www.rightmove.co.uk/sell-my-house-fast">
+           <img src="/ps/images/icons/resale_lettings_showcase_teaser_main_image.jpg" alt="Upgrade your listing" class="fixedPic teaser" />
+          </a>
+         </div>
+         <div class="details">
+          <p class="address" style="overflow: visible;font-weight: bold;">
+           <a id="showcaseTeaserTextLink" href="http://www.rightmove.co.uk/sell-my-house-fast">
+            Last year only half of the properties put on the market sold. Don't leave it to chance
+           </a>
+          </p>
+         </div>
+         <div class="agent">
+          <div class="featuredlogo">
+           <a href="http://www.rightmove.co.uk/sell-my-house-fast">
+            <img src="/ps/images/icons/resale_lettings_showcase_teaser_bp_image2.png" alt="Upgrade your listing" title="Upgrade your listing" />
+           </a>
+          </div>
+         </div>
+        </li>
+       </ul>
+       <div id="interstitial-banner">
+        <a target="_blank" href="http://www.rightmoveplaces.co.uk/rmlocation?locationIdentifier=OUTCODE^2351">
+         <img src="http://media.rightmove.co.uk/banners/interstitial/rmplaces_interstitial_neighbourliness2.jpg" alt="Look at SG5 on RightmovePlaces" title="Look at SG5 on RightmovePlaces" />
+        </a>
+       </div>
+
+	<ol id="summaries" class="premiumbgcolour4 pdlargeboldfont">
+        <li class="regular brandplus clearfix pos-1" id="summary34065812">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop34065812" class="photo" href="/property-for-sale/property-34065812.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="Flat for sale in Ralph Swingler Place..." src="http://media.rightmove.co.uk/61k/60305/60305_2187059_IMG_00_0000_t.jpg" class="fixedPic" id="" name="" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary34065812" href="/property-for-sale/property-34065812.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              2 bedroom flat for sale
+             </span>
+             <span class="displayaddress">
+              Ralph Swingler Place, Sollershott East, LETCHWORTH GARDEN CITY, Hertfordshire
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            &pound;375,000
+           </p>
+           <p class="description">
+            Luxurious first floor apartment in this most select development complete with residents private leisure pool This stunning 2 bedroomed apartment offers generous accommodation with a light and airy feel complimented by  high ceilings throughout, with the further benefit of under floor heating, its...
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary34065812" href="/property-for-sale/property-34065812.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details, 7 photos and brochure
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=34065812&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=34065812&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+             <li class="upgradelisting">
+              <a id="link-premiumListingPromotion-34065812" class="link-premiumListingPromotion" rel="nofollow" href="/upgrade-my-listing-34065812.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               Upgrade listing
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Lane & Bennetts, Letchworth.
+
+				Telephone: 01462 671 000
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Lane &amp; Bennetts, Letchworth" href="/estate-agents/agent/Lane-and-Bennetts/Letchworth-60305.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/brand/brand_logo_2028_0001_t.jpg" alt="Lane &amp; Bennetts, Letchworth logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="regular clearfix pos-2" id="summary30486220">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop30486220" class="photo" href="/property-for-sale/property-30486220.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="2 bed Retirement Property for sale in Ralph Swingler Place..." src="http://media.rightmove.co.uk/76k/75028/75028_45691_IMG_03_0000_t.jpg" class="fixedPic" id="" name="" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary30486220" href="/property-for-sale/property-30486220.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              2 bedroom retirement property for sale
+             </span>
+             <span class="displayaddress">
+              Ralph Swingler Place,
+Letchworth Garden City,
+SG6
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            &pound;374,997
+           </p>
+           <p class="description">
+            Luxury for the discerning, this stunning 2 bedroom apartment is set within a conservation area of Letchworth and offers a wealth of benefits to the mature adult of 55 years and over.
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary30486220" href="/property-for-sale/property-30486220.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details, 13 photos and floorplan
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=30486220&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=30486220&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+             <li class="upgradelisting">
+              <a id="link-premiumListingPromotion-30486220" class="link-premiumListingPromotion" rel="nofollow" href="/upgrade-my-listing-30486220.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               Upgrade listing
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Fenwick Estates, Sawbridgeworth.
+
+				Telephone: 0843 103 1067
+	&nbsp;
+             <span id="488" tabindex="0" class="bt4pmin">
+              BT 4p/min
+             </span>
+             <div id="btinfo-488" tabindex="0" class="btnotewrapper" style="display:none;">
+              <div class="btnoteCloseButton">
+              </div>
+              <h4>
+               How much will it cost me to call the 0843 number displayed on the site?
+              </h4>
+              <p>
+               Calls to this number will be charged at 4 pence per minute from BT landlines. Calls from other networks may vary.
+		Calls from mobiles and outside the UK will be higher.
+              </p>
+             </div>
+            </p>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="regular brandplus clearfix pos-3" id="summary34449320">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop34449320" class="photo" href="/property-for-sale/property-34449320.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="3 bed Apartment for sale in Hitchin" src="http://media.rightmove.co.uk/13k/12040/12040_113794A_13794_IMG_01_0000_t.JPG" class="fixedPic" id="" name="" />
+             <span class="propertystatus underoffer">
+              Under offer
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary34449320" href="/property-for-sale/property-34449320.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              3 bedroom apartment for sale
+             </span>
+             <span class="displayaddress">
+              Hitchin
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            Guide Price &pound;374,995
+           </p>
+           <p class="description">
+            It is with huge pleasure that Premier Move has been favoured with the instruction to offer for sale number four The Exchange an absolutely spectacular three bedroom town centre apartment. As much an indication of design as a home, this is a property which inspires with its contemporary design and...
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary34449320" href="/property-for-sale/property-34449320.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details, 7 photos and brochure
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=34449320&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=34449320&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+             <li class="upgradelisting">
+              <a id="link-premiumListingPromotion-34449320" class="link-premiumListingPromotion" rel="nofollow" href="/upgrade-my-listing-34449320.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               Upgrade listing
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Premier Move, Hitchin.
+
+				Telephone: 0843 313 4476
+	&nbsp;
+             <span id="873" tabindex="0" class="bt4pmin">
+              BT 4p/min
+             </span>
+             <div id="btinfo-873" tabindex="0" class="btnotewrapper" style="display:none;">
+              <div class="btnoteCloseButton">
+              </div>
+              <h4>
+               How much will it cost me to call the 0843 number displayed on the site?
+              </h4>
+              <p>
+               Calls to this number will be charged at 4 pence per minute from BT landlines. Calls from other networks may vary.
+		Calls from mobiles and outside the UK will be higher.
+              </p>
+             </div>
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Premier Move, Hitchin" href="/estate-agents/agent/Premier-Move/Hitchin-12040.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/13k/12040/branch_logo_12040_0000_t.jpg" alt="Premier Move, Hitchin logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="regular brandplus clearfix pos-4" id="summary17557920">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop17557920" class="photo" href="/property-for-sale/new-homes/property-17557920.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="4 bed new development for sale in Plot 46, The Crescent..." src="http://media.rightmove.co.uk/43k/42036/42036_1565048_IMG_00_0000_t.jpg" class="fixedPic" id="" name="" />
+             <span class="propertystatus newhome">
+              New home
+             </span>
+             <span class="propertystatus sold">
+              Sold STC
+             </span>
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary17557920" href="/property-for-sale/new-homes/property-17557920.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              4 bedroom town house for sale
+             </span>
+             <span class="displayaddress">
+              Plot 46, The Crescent, Fairfield Park, Charlotte Avenue, Stotfold
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            &pound;339,950
+           </p>
+           <p class="description">
+            The Crescent at Fairfield Park is an exceptional new development built by prestigious developers, Charles Church and comprises of a Georgian style crescent of 2 and 3 storey family homes and  1 & 2 bed apartments and coach houses.  Fairfield Park is well connected to road links with the A1M at ju...
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary17557920" href="/property-for-sale/new-homes/property-17557920.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details and brochure
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=17557920&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/new-homes/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=17557920&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Lanes, New Homes.
+
+				Telephone: 0843 315 5053
+	&nbsp;
+             <span id="580" tabindex="0" class="bt4pmin">
+              BT 4p/min
+             </span>
+             <div id="btinfo-580" tabindex="0" class="btnotewrapper" style="display:none;">
+              <div class="btnoteCloseButton">
+              </div>
+              <h4>
+               How much will it cost me to call the 0843 number displayed on the site?
+              </h4>
+              <p>
+               Calls to this number will be charged at 4 pence per minute from BT landlines. Calls from other networks may vary.
+		Calls from mobiles and outside the UK will be higher.
+              </p>
+             </div>
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Lanes, New Homes" href="/estate-agents/agent/Lanes/New-Homes-42036.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/company/clogo_3693_t.jpg" alt="Lanes, New Homes logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="premium topborder brandplus clearfix largephotolisting  pos-5" id="summary19597677">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop19597677" class="photo" href="/property-for-sale/property-19597677.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+             <img alt="Fairfield Hall Flat for sale" class="largephoto" src="http://media.rightmove.co.uk/ir/f3/p/1k/442~442_BLW110229_IMG_00_0001.JPG~442_BLW110229_IMG_01_0001.JPG~442_BLW110229_IMG_02_0002.JPG" style="margin-left: 0px;" id="" name="" />
+             <span class="sticker premiumdisplay">
+              Premium Listing
+             </span>
+            </a>
+           </div>
+           <div class="premiumphotothumbnails">
+            <a href="/property-for-sale/property-19597677.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+             <img class="viewport" alt="" src="/ps/images11245/icons/thumbnail-viewport.gif" />
+             <img id="premiumDisplayThumbnails_4" src="http://media.rightmove.co.uk/ir/f3/p/1k/442~442_BLW110229_IMG_00_0001.JPG~442_BLW110229_IMG_01_0001.JPG~442_BLW110229_IMG_02_0002.JPG" class="premiumphoto" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary19597677" href="/property-for-sale/property-19597677.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+             <span class="">
+              3 bedroom flat for sale
+             </span>
+             <span class="displayaddress">
+              Fairfield Hall, Kingsley Avenue, Hitchin, Bedfordshire
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            Offers in Excess of &pound;330,000
+           </p>
+           <p class="description">
+            Taylors Estate Agents are delighted to offer for sale this incredible three bedroom split level apartment located on the highly sought after 'Fairfield Hall' development. (contd...)
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary19597677" href="/property-for-sale/property-19597677.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+               More details, 13 photos and floorplan
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=19597677&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=19597677&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by
+             <b>
+              Taylors Estate Agents, Letchworth
+             </b>
+             .
+
+				Telephone: 0843 313 1453
+	&nbsp;
+             <span id="88" tabindex="0" class="bt4pmin">
+              BT 4p/min
+             </span>
+             <div id="btinfo-88" tabindex="0" class="btnotewrapper" style="display:none;">
+              <div class="btnoteCloseButton">
+              </div>
+              <h4>
+               How much will it cost me to call the 0843 number displayed on the site?
+              </h4>
+              <p>
+               Calls to this number will be charged at 4 pence per minute from BT landlines. Calls from other networks may vary.
+		Calls from mobiles and outside the UK will be higher.
+              </p>
+             </div>
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Taylors Estate Agents, Letchworth" href="/estate-agents/agent/Taylors-Estate-Agents/Letchworth-442.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/brand/brand_logo_25_0000_t.gif" alt="Taylors Estate Agents, Letchworth logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="regular brandplus clearfix pos-6" id="summary30386290">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop30386290" class="photo" href="/property-for-sale/property-30386290.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="2 bed Apartment for sale in Fairfield Hall, Stotfold..." src="http://media.rightmove.co.uk/61k/60305/60305_2204166_IMG_00_0000_t.jpg" class="fixedPic" id="" name="" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary30386290" href="/property-for-sale/property-30386290.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              2 bedroom apartment for sale
+             </span>
+             <span class="displayaddress">
+              Fairfield Hall, Stotfold, Bedfordshire
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            &pound;284,500
+           </p>
+           <p class="description">
+            Lane & Bennetts are delighted to offer this incredibly spacious and beautifully presented apartment, which boasts two double bedrooms, with the master bedroom offering an en suite bathroom & range of bedroom furniture, and a bay fronted 23ft lounge with panoramic views over the cricket green and ...
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary30386290" href="/property-for-sale/property-30386290.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details, 8 photos, floorplan and brochure
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=30386290&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=30386290&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+             <li class="upgradelisting">
+              <a id="link-premiumListingPromotion-30386290" class="link-premiumListingPromotion" rel="nofollow" href="/upgrade-my-listing-30386290.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               Upgrade listing
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Lane & Bennetts, Letchworth.
+
+				Telephone: 01462 671 000
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Lane &amp; Bennetts, Letchworth" href="/estate-agents/agent/Lane-and-Bennetts/Letchworth-60305.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/brand/brand_logo_2028_0001_t.jpg" alt="Lane &amp; Bennetts, Letchworth logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="regular brandplus clearfix pos-7" id="summary14357286">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop14357286" class="photo" href="/property-for-sale/property-14357286.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="Retirement Property for sale in Wilshere Court..." src="http://media.rightmove.co.uk/16k/15848/15848_1678772_IMG_00_0002_t.jpg" class="fixedPic" id="" name="" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary14357286" href="/property-for-sale/property-14357286.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              2 bedroom retirement property for sale
+             </span>
+             <span class="displayaddress">
+              Wilshere Court, Queen Street, Hitchin, Herts.
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            &pound;282,500
+           </p>
+           <p class="description">
+            A rare chance to purchase a spacious new two double bedroom retirement apartment situated within this  Pegasus  built private development.  This outstanding purpose-built first floor property has yet to be occupied and provides very well proportioned accommodation; finished to a high standard of ...
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary14357286" href="/property-for-sale/property-14357286.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details, 6 photos, floorplan and brochures
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=14357286&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=14357286&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+             <li class="upgradelisting">
+              <a id="link-premiumListingPromotion-14357286" class="link-premiumListingPromotion" rel="nofollow" href="/upgrade-my-listing-14357286.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               Upgrade listing
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Stonegate Estates, Hitchin Sales.
+
+				Telephone: 01462 438979
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Stonegate Estates, Hitchin Sales" href="/estate-agents/agent/Stonegate-Estates/Hitchin-Sales-15848.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/brand/brand_logo_7703_0000_t.png" alt="Stonegate Estates, Hitchin Sales logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="regular brandplus clearfix pos-8" id="summary30895648">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop30895648" class="photo" href="/property-for-sale/property-30895648.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="Flat for sale in East Wing..." src="http://media.rightmove.co.uk/16k/15848/15848_2241247_IMG_00_0002_t.jpg" class="fixedPic" id="" name="" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary30895648" href="/property-for-sale/property-30895648.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              2 bedroom flat for sale
+             </span>
+             <span class="displayaddress">
+              East Wing, Fairfield Hall, Stotfold, Beds
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            &pound;279,950
+           </p>
+           <p class="description">
+            Arguably one of the best located apartments on the development, being on the extreme outskirts of Fairfield Hall featuring its own terrace and lovely views over lawns and mature trees to two sides.   This outstanding two bedroom ground floor property is set within East Wing which looks towards th...
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary30895648" href="/property-for-sale/property-30895648.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details, 8 photos and brochure
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=30895648&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=30895648&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+             <li class="upgradelisting">
+              <a id="link-premiumListingPromotion-30895648" class="link-premiumListingPromotion" rel="nofollow" href="/upgrade-my-listing-30895648.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               Upgrade listing
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Stonegate Estates, Hitchin Sales.
+
+				Telephone: 01462 438979
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Stonegate Estates, Hitchin Sales" href="/estate-agents/agent/Stonegate-Estates/Hitchin-Sales-15848.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/brand/brand_logo_7703_0000_t.png" alt="Stonegate Estates, Hitchin Sales logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="regular brandplus clearfix pos-9" id="summary31221493">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop31221493" class="photo" href="/property-for-sale/property-31221493.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <img alt="2 bed Retirement Property in HITCHIN, Hertfordshire" src="http://media.rightmove.co.uk/6k/5587/5587_2283076_IMG_00_0000_t.jpg" class="fixedPic" id="" name="" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary31221493" href="/property-for-sale/property-31221493.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+             <span class="">
+              2 bedroom retirement property for sale
+             </span>
+             <span class="displayaddress">
+              HITCHIN, Hertfordshire
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            Guide Price &pound;269,950
+           </p>
+           <p class="description">
+            A rare chance to acquire a large two double bedroom luxury apartment - forming part of a specialist RETIREMENT development known as Harrison Court.    This particular example is one of the largest designs and boasts a triple aspect including a balcony.  Internally, the property features an impres...
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary31221493" href="/property-for-sale/property-31221493.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               More details, 6 photos and brochure
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=31221493&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=31221493&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+             <li class="upgradelisting">
+              <a id="link-premiumListingPromotion-31221493" class="link-premiumListingPromotion" rel="nofollow" href="/upgrade-my-listing-31221493.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+               Upgrade listing
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by Satchells Estate Agents, Letchworth.
+
+				Telephone: 0843 313 5763
+	&nbsp;
+             <span id="100" tabindex="0" class="bt4pmin">
+              BT 4p/min
+             </span>
+             <div id="btinfo-100" tabindex="0" class="btnotewrapper" style="display:none;">
+              <div class="btnoteCloseButton">
+              </div>
+              <h4>
+               How much will it cost me to call the 0843 number displayed on the site?
+              </h4>
+              <p>
+               Calls to this number will be charged at 4 pence per minute from BT landlines. Calls from other networks may vary.
+		Calls from mobiles and outside the UK will be higher.
+              </p>
+             </div>
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Satchells Estate Agents, Letchworth" href="/estate-agents/agent/Satchells-Estate-Agents/Letchworth-5587.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/company/clogo_rmchoice_1724_0020_t.jpg" alt="Satchells Estate Agents, Letchworth logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+        <li class="premium topborder brandplus clearfix largephotolisting  pos-10" id="summary19171629">
+         <div class="summarymaincontent">
+          <div class="photos">
+           <div class="photoframe">
+            <a id="prop19171629" class="photo" href="/property-for-sale/property-19171629.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+             <img alt="Apartment in Kingsley Avenue..." class="largephoto" src="http://media.rightmove.co.uk/ir/f3/p/2k/1651~1651_LCH302556_IMG_00_0000.jpg~1651_LCH302556_IMG_01_0000.jpg~1651_LCH302556_IMG_02_0000.jpg" style="margin-left: 0px;" id="" name="" />
+             <span class="sticker premiumdisplay">
+              Premium Listing
+             </span>
+            </a>
+           </div>
+           <div class="premiumphotothumbnails">
+            <a href="/property-for-sale/property-19171629.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+             <img class="viewport" alt="" src="/ps/images11245/icons/thumbnail-viewport.gif" />
+             <img id="premiumDisplayThumbnails_9" src="http://media.rightmove.co.uk/ir/f3/p/2k/1651~1651_LCH302556_IMG_00_0000.jpg~1651_LCH302556_IMG_01_0000.jpg~1651_LCH302556_IMG_02_0000.jpg" class="premiumphoto" />
+            </a>
+           </div>
+          </div>
+          <div class="details clearfix">
+           <h2 class="address bedrooms">
+            <a id="standardPropertySummary19171629" href="/property-for-sale/property-19171629.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+             <span class="">
+              2 bedroom apartment for sale
+             </span>
+             <span class="displayaddress">
+              Kingsley Avenue, Stotfold, Hitchin
+             </span>
+            </a>
+           </h2>
+           <p class="price">
+            &pound;259,950
+           </p>
+           <p class="description">
+            STUNNING AND UNIQUE ...Connells are excited to offer for sale this unique property like nothing else on the market, in Fairfield Hall. Set over four floors this really offers a more than generous living space and truly must be seen to be fully appreciated. Call today to arrange a viewing.
+           </p>
+           <div class="moreinfo">
+            <ul>
+             <li class="moredetails">
+              <a id="standardPropertySummary19171629" href="/property-for-sale/property-19171629.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?premiumA=true">
+               More details and 5 photos
+              </a>
+             </li>
+             <li class="saveproperty">
+              <a class="lightboxCreateAccount registersource-save-property" rel="nofollow" href="/addtoshortlist.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?property_id=19171629&amp;from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Save property
+              </a>
+             </li>
+             <li class="contactagent">
+              <a id="link-requestdetails" title="Contact agent" rel="nofollow" href="/property-for-sale/contactBranch.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?propertyId=19171629&amp;locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;backListLink=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don">
+               Contact agent
+              </a>
+             </li>
+            </ul>
+           </div>
+           <div class="branch">
+            <p class="branchblurb">
+             Marketed by
+             <b>
+              Connells, Letchworth Garden City
+             </b>
+             .
+
+				Telephone: 0843 313 1162
+	&nbsp;
+             <span id="832" tabindex="0" class="bt4pmin">
+              BT 4p/min
+             </span>
+             <div id="btinfo-832" tabindex="0" class="btnotewrapper" style="display:none;">
+              <div class="btnoteCloseButton">
+              </div>
+              <h4>
+               How much will it cost me to call the 0843 number displayed on the site?
+              </h4>
+              <p>
+               Calls to this number will be charged at 4 pence per minute from BT landlines. Calls from other networks may vary.
+		Calls from mobiles and outside the UK will be higher.
+              </p>
+             </div>
+            </p>
+            <div class="branchlogo">
+             <a title="Contact details and properties from Connells, Letchworth Garden City" href="/estate-agents/agent/Connells/Letchworth-Garden-City-1651.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+              <img src="http://media.rightmove.co.uk/company/clogo_43_0000_t.gif" alt="Connells, Letchworth Garden City logo" class="" />
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="dateWrapper">
+         </div>
+        </li>
+       </ol>
+       <div class="clearfix slidercontainer">
+        <div id="pagenavigation">
+         <span class="pagenavigation pagecount">
+          page 1 of 18
+         </span>
+        </div>
+        <div id="pagenavigation">
+         <span class="pagenavigation disabled">
+          previous
+         </span>
+        </div>
+        <div id="sliderBottom">
+         <div class="sliderGallery">
+          <ul class="items">
+           <li>
+            <span class="current">
+             1
+            </span>
+           </li>
+           <li>
+            <a id="linkNo2" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=10">
+             2
+            </a>
+           </li>
+           <li>
+            <a id="linkNo3" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=20">
+             3
+            </a>
+           </li>
+           <li>
+            <a id="linkNo4" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=30">
+             4
+            </a>
+           </li>
+           <li>
+            <a id="linkNo5" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=40">
+             5
+            </a>
+           </li>
+           <li>
+            <a id="linkNo6" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=50">
+             6
+            </a>
+           </li>
+           <li>
+            <a id="linkNo7" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=60">
+             7
+            </a>
+           </li>
+           <li>
+            <a id="linkNo8" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=70">
+             8
+            </a>
+           </li>
+           <li>
+            <a id="linkNo9" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=80">
+             9
+            </a>
+           </li>
+           <li>
+            <a id="linkNo10" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=90">
+             10
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div id="slider">
+         </div>
+        </div>
+        <div id="pagenavigation">
+         <a class="pagenavigation active" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;index=10">
+          next
+         </a>
+        </div>
+       </div>
+       <div>
+        &nbsp;
+       </div>
+       <div id="bottom-buttons">
+        <div id="savepropertiesmvt" class="clearfix">
+        </div>
+       </div>
+       <div class="clearfix postcodeFooter">
+        <span class="postcodeFooterNumber">
+         8,089
+        </span>
+        <p>
+         potential buyers are registered to see when properties are added in this postcode.
+         <br />
+         <a id="pcactivity" title="See more market activity in this postcode." rel="nofollow" href="/house-value.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?radius=0.25&amp;searchLocation=SG5+4FX">
+          See more market activity in SG5 4FX
+         </a>
+        </p>
+       </div>
+       <a name="multiContactBranch">
+       </a>
+       <form id="multiContactBranchForm" action="/property-for-sale/contactMultipleBranches.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?from=%2Fproperty-for-sale%2Ffind.html%3FlocationIdentifier%3DPOSTCODE%5E3820481%26minPrice%3D150000%26maxPrice%3D400000%26displayPropertyType%3Dflats%26oldDisplayPropertyType%3Dflats%26radius%3D5.0%26includeSSTC%3Dtrue%26_includeSSTC%3Don#multiContactBranch" method="post">
+        <input type="hidden" name="locationIdentifier" value="POSTCODE^3820481" />
+        <input type="hidden" name="minPrice" value="150000" />
+        <input type="hidden" name="maxPrice" value="400000" />
+        <input type="hidden" name="displayPropertyType" value="flats" />
+        <input type="hidden" name="oldDisplayPropertyType" value="flats" />
+        <input type="hidden" name="radius" value="5.0" />
+        <input type="hidden" name="includeSSTC" value="true" />
+        <input type="hidden" name="_includeSSTC" value="on" />
+        <div id="mamheader">
+        </div>
+        <fieldset id="agentlist">
+         <legend>
+          Choose agents and developers *
+         </legend>
+         <ul id="agents">
+          <li class="clearfix">
+           <input type="checkbox" id="13166" name="branchIds" value="13166" />
+           <div class="agentdetail">
+            <h3>
+             Acorn Estate Agents
+            </h3>
+            <p>
+             0843 315 1223
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="42189" name="branchIds" value="42189" />
+           <div class="agentdetail">
+            <h3>
+             Archers Town & Country
+            </h3>
+            <p>
+             0843 314 5892
+            </p>
+           </div>
+          </li>
+          <li class="clearfix" title="Developer">
+           <input type="checkbox" id="72074" name="branchIds" value="72074" />
+           <div class="agentdetail">
+            <h3>
+             Bellway Homes Ltd
+            </h3>
+            <p>
+             0843 314 2615
+            </p>
+           </div>
+          </li>
+          <li class="clearfix" title="Developer">
+           <input type="checkbox" id="59459" name="branchIds" value="59459" />
+           <div class="agentdetail">
+            <h3>
+             Bovis Homes
+            </h3>
+            <p>
+             0843 313 6940
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="23144" name="branchIds" value="23144" />
+           <div class="agentdetail">
+            <h3>
+             Colemans Residential Sales & Lettings
+            </h3>
+            <p>
+             0843 314 2156
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="1650" name="branchIds" value="1650" />
+           <div class="agentdetail">
+            <h3>
+             Connells, Hitchin
+            </h3>
+            <p>
+             0843 313 1161
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="1651" name="branchIds" value="1651" />
+           <div class="agentdetail">
+            <h3>
+             Connells, Letchworth Garden City
+            </h3>
+            <p>
+             0843 313 1162
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="7656" name="branchIds" value="7656" />
+           <div class="agentdetail">
+            <h3>
+             Country Properties, Baldock
+            </h3>
+            <p>
+             0843 315 5614
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="7677" name="branchIds" value="7677" />
+           <div class="agentdetail">
+            <h3>
+             Country Properties, Hitchin
+            </h3>
+            <p>
+             0843 313 8129
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="23792" name="branchIds" value="23792" />
+           <div class="agentdetail">
+            <h3>
+             Country Properties, Letchworth Garden City
+            </h3>
+            <p>
+             01462 481100
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="9061" name="branchIds" value="9061" />
+           <div class="agentdetail">
+            <h3>
+             Country Properties, Shefford
+            </h3>
+            <p>
+             01462 811822
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="8288" name="branchIds" value="8288" />
+           <div class="agentdetail">
+            <h3>
+             Country Properties, Stotfold
+            </h3>
+            <p>
+             01462 834022
+            </p>
+           </div>
+          </li>
+          <li class="clearfix" title="Developer">
+           <input type="checkbox" id="50226" name="branchIds" value="50226" />
+           <div class="agentdetail">
+            <h3>
+             Croudace Homes
+            </h3>
+            <p>
+             0800 840 0267
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="75028" name="branchIds" value="75028" />
+           <div class="agentdetail">
+            <h3>
+             Fenwick Estates
+            </h3>
+            <p>
+             0843 103 1067
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="86486" name="branchIds" value="86486" />
+           <div class="agentdetail">
+            <h3>
+             Harry Charles Estate Agents
+            </h3>
+            <p>
+             01923 731313
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="42536" name="branchIds" value="42536" />
+           <div class="agentdetail">
+            <h3>
+             Hatched.co.uk
+            </h3>
+            <p>
+             0845 6780908
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="2601" name="branchIds" value="2601" />
+           <div class="agentdetail">
+            <h3>
+             Homes & Mortgages Estate Agents Ltd
+            </h3>
+            <p>
+             0843 313 4450
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="5849" name="branchIds" value="5849" />
+           <div class="agentdetail">
+            <h3>
+             Lane & Bennetts, Langford
+            </h3>
+            <p>
+             01462 700555
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="60305" name="branchIds" value="60305" />
+           <div class="agentdetail">
+            <h3>
+             Lane & Bennetts, Letchworth
+            </h3>
+            <p>
+             01462 671 000
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="42036" name="branchIds" value="42036" />
+           <div class="agentdetail">
+            <h3>
+             Lanes
+            </h3>
+            <p>
+             0843 315 5053
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="79441" name="branchIds" value="79441" />
+           <div class="agentdetail">
+            <h3>
+             MHA
+            </h3>
+            <p>
+             0843 103 5210
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="22613" name="branchIds" value="22613" />
+           <div class="agentdetail">
+            <h3>
+             Norgans Estate Agents
+            </h3>
+            <p>
+             0843 315 2186
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="12040" name="branchIds" value="12040" />
+           <div class="agentdetail">
+            <h3>
+             Premier Move
+            </h3>
+            <p>
+             0843 313 4476
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="17438" name="branchIds" value="17438" />
+           <div class="agentdetail">
+            <h3>
+             Putterills, Hitchin
+            </h3>
+            <p>
+             0843 315 1955
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="37281" name="branchIds" value="37281" />
+           <div class="agentdetail">
+            <h3>
+             Putterills, Land & New Homes
+            </h3>
+            <p>
+             0845 602 1857
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="69430" name="branchIds" value="69430" />
+           <div class="agentdetail">
+            <h3>
+             Putterills, Royston
+            </h3>
+            <p>
+             0843 315 8447
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="12522" name="branchIds" value="12522" />
+           <div class="agentdetail">
+            <h3>
+             Retirement Homesearch
+            </h3>
+            <p>
+             0845 880 5560
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="77497" name="branchIds" value="77497" />
+           <div class="agentdetail">
+            <h3>
+             Rochester Williams Estate Agents
+            </h3>
+            <p>
+             0843 103 3447
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="10966" name="branchIds" value="10966" />
+           <div class="agentdetail">
+            <h3>
+             Satchells Estate Agents, Baldock
+            </h3>
+            <p>
+             0843 313 5767
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="5587" name="branchIds" value="5587" />
+           <div class="agentdetail">
+            <h3>
+             Satchells Estate Agents, Letchworth
+            </h3>
+            <p>
+             0843 313 5763
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="9235" name="branchIds" value="9235" />
+           <div class="agentdetail">
+            <h3>
+             Satchells Estate Agents, Stotfold
+            </h3>
+            <p>
+             0843 313 5766
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="5476" name="branchIds" value="5476" />
+           <div class="agentdetail">
+            <h3>
+             Stephens Estate Agents
+            </h3>
+            <p>
+             0843 313 5714
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="15848" name="branchIds" value="15848" />
+           <div class="agentdetail">
+            <h3>
+             Stonegate Estates
+            </h3>
+            <p>
+             01462 438979
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="436" name="branchIds" value="436" />
+           <div class="agentdetail">
+            <h3>
+             Taylors Estate Agents, Hitchin
+            </h3>
+            <p>
+             0843 313 1449
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="442" name="branchIds" value="442" />
+           <div class="agentdetail">
+            <h3>
+             Taylors Estate Agents, Letchworth
+            </h3>
+            <p>
+             0843 313 1453
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="4943" name="branchIds" value="4943" />
+           <div class="agentdetail">
+            <h3>
+             Wilson Peacock
+            </h3>
+            <p>
+             0843 313 0954
+            </p>
+           </div>
+          </li>
+          <li class="clearfix">
+           <input type="checkbox" id="8567" name="branchIds" value="8567" />
+           <div class="agentdetail">
+            <h3>
+             YOUR MOVE
+            </h3>
+            <p>
+             0843 315 0257
+            </p>
+           </div>
+          </li>
+         </ul>
+         <p class="extra">
+          * All have property in your search
+         </p>
+        </fieldset>
+        <fieldset id="details">
+         <legend>
+          Your details
+         </legend>
+         <div id="validation">
+         </div>
+         <div class="inputset clearfix">
+          <label for="fullName">
+           Name:
+           <span class="star">
+            *
+           </span>
+          </label>
+          <input id="fullName" name="fullName" type="text" value="" maxlength="100" />
+         </div>
+         <div class="inputset clearfix">
+          <label for="email">
+           Email:
+           <span class="star">
+            *
+           </span>
+          </label>
+          <input id="email" name="email" type="text" value="" maxlength="100" />
+         </div>
+         <div class="inputset clearfix">
+          <label for="telephone">
+           Tel:
+           <span class="star">
+            *
+           </span>
+          </label>
+          <input id="telephone" name="telephone" type="text" value="" maxlength="30" />
+         </div>
+         <div class="inputset">
+          <label for="comments">
+           Your message:
+          </label>
+          <textarea id="comments" name="comments" rows="10" cols="20">
+          </textarea>
+         </div>
+         <div class="clearfix" style="padding: 0.5em 0.5em;">
+          <input id="sendConfirmationEmail" name="sendConfirmationEmail" type="checkbox" value="true" checked="checked" />
+          <input type="hidden" name="_sendConfirmationEmail" value="on" />
+          <label for="sendConfirmationEmail">
+           Please send a copy to my email address
+          </label>
+         </div>
+         <span id="required_text" class="star">
+          *required
+         </span>
+        </fieldset>
+        <div id="mamfooter" class="clearfix">
+         <div class="disclaimer">
+          <input id="consentForSharing" name="consentForSharing" type="hidden" value="false" />
+          <input id="consentForContact" name="consentForContact" type="checkbox" value="true" checked="checked" />
+          <input type="hidden" name="_consentForContact" value="on" />
+          <label id="label-consentforcontact" class="consent" for="consentForContact">
+           Only Rightmove can contact me with relevant properties, offers and news.
+           <br />
+          </label>
+          <label id="label-privacy-details" class="consent">
+           Your
+           <a target="_blank" onclick=";return !RIGHTMOVE.UTIL.openAttributeWindowWithName(this.href, '', 'width=770,height=190,left=100,top=95,directories=no,resizable=yes,scrollbars=yes,toolbar=no,menubar=no,titlebar=no,status=yes')" href="/privacyUp.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+            details
+           </a>
+           are safe with us.
+          </label>
+         </div>
+         <input class="button" id="mamsubmit" type="submit" value="Send" />
+         <div id="loading_status" style="display: none">
+          <img src="/ps/images11245/icons/loading-small.gif" alt="Loading" id="loading" />
+         </div>
+        </div>
+       </form>
+       <div id="ajax_multi_agent_confirmation" style="display: none">
+        <div id="mamheader">
+        </div>
+        <div id="mamconfirmation">
+         <h3>
+          Thank you.
+         </h3>
+         <p>
+          Your information has been sent to
+          <strong>
+           <span id="numberOfAgentsEmailed">
+            0
+           </span>
+          </strong>
+          out of
+          <strong>
+           37
+          </strong>
+          agents and developers who have property to
+        
+                sell
+            
+        in the area you specified.
+          <span id="confirmationEmailSent">
+          </span>
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="secondarycontent">
+      <div id="saveproperties" class="clearfix">
+       <a id="savesearch" class="lightboxCreateAccount imglink registersource-save-search" title="Save your search" rel="nofollow" href="/property-for-sale/save-search.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;source=savesearch">
+        Save search
+       </a>
+       <a id="emailalert" class="lightboxCreateAccount imglink registersource-property-alerts" title="Get matching properties by email" rel="nofollow" href="/property-for-sale/save-search.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;source=emailalert">
+        Email updates
+       </a>
+      </div>
+      <div id="dya-access" class="content clearfix">
+       <h3>
+        <a id="dyaresultslinkimage" class="dyaresultslink" title="Create your own area" rel="nofollow" href="/property-for-sale/draw-a-search.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;includeSSTC=true&amp;_includeSSTC=on">
+         <img src="/ps/images/buttons/primary/drawasearch/dasLogoH3.gif" alt="Draw a search" />
+        </a>
+       </h3>
+       <p>
+        <span>
+         New!
+        </span>
+        Focus your search on
+        <i>
+         exactly
+        </i>
+        where you want to live with
+        <a class="dyaresultslink" title="Create your own area" rel="nofollow" href="/property-for-sale/draw-a-search.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;includeSSTC=true&amp;_includeSSTC=on">
+         Draw-a-Search
+        </a>
+       </p>
+      </div>
+      <div id="criteriaresults" class="content">
+       <h3>
+        Change location and criteria
+       </h3>
+       <form id="propertySearchCriteria" class="criteriasearch" action="/property-for-sale/search.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D" method="get">
+        <fieldset>
+         <input id="searchType" name="searchType" type="hidden" value="SALE" />
+         <input id="locationIdentifier" name="locationIdentifier" type="hidden" value="POSTCODE^3820481" />
+         <input id="previousSearchLocation" name="previousSearchLocation" type="hidden" value="SG5 4FX" />
+         <input id="useLocationIdentifier" name="useLocationIdentifier" type="hidden" value="false" />
+         <div class="inputset clearfix">
+          <label>
+           Location:
+          </label>
+          <input id="searchResultsInput" name="searchLocation" type="text" value="SG5 4FX" />
+         </div>
+         <input id="savedSearchId" name="savedSearchId" type="hidden" value="" />
+         <div class="inputset clearfix">
+          <label>
+           Radius:
+          </label>
+          <select id="radius" name="radius" class="short">
+           <option value="0.0">
+            This postcode only
+           </option>
+           <option value="0.25">
+            Within &frac14; mile
+           </option>
+           <option value="0.5">
+            Within &frac12; mile
+           </option>
+           <option value="1.0">
+            Within 1 mile
+           </option>
+           <option value="3.0">
+            Within 3 miles
+           </option>
+           <option value="5.0" selected="selected">
+            Within 5 miles
+           </option>
+           <option value="10.0">
+            Within 10 miles
+           </option>
+           <option value="15.0">
+            Within 15 miles
+           </option>
+           <option value="20.0">
+            Within 20 miles
+           </option>
+           <option value="30.0">
+            Within 30 miles
+           </option>
+           <option value="40.0">
+            Within 40 miles
+           </option>
+          </select>
+         </div>
+        </fieldset>
+        <fieldset>
+         <div class="inputset clearfix">
+          <label>
+           Property:
+          </label>
+          <select id="displayPropertyType" name="displayPropertyType" class="short">
+           <option value="">
+            Any
+           </option>
+           <option value="houses">
+            Houses
+           </option>
+           <option value="flats" selected="selected">
+            Flats / Apartments
+           </option>
+           <option value="bungalows">
+            Bungalows
+           </option>
+           <option value="land">
+            Land
+           </option>
+           <option value="commercial">
+            Commercial Property
+           </option>
+           <option value="other">
+            Other
+           </option>
+          </select>
+         </div>
+         <div class="inputset clearfix">
+          <label>
+           Beds:
+          </label>
+          <select id="minBedrooms" name="minBedrooms" class="double">
+           <option value="" selected="selected">
+            No min
+           </option>
+           <option value="0">
+            Studio
+           </option>
+           <option value="1">
+            1
+           </option>
+           <option value="2">
+            2
+           </option>
+           <option value="3">
+            3
+           </option>
+           <option value="4">
+            4
+           </option>
+           <option value="5">
+            5
+           </option>
+          </select>
+          <p>
+           to
+          </p>
+          <select id="maxBedrooms" name="maxBedrooms" class="double">
+           <option value="" selected="selected">
+            No max
+           </option>
+           <option value="0">
+            Studio
+           </option>
+           <option value="1">
+            1
+           </option>
+           <option value="2">
+            2
+           </option>
+           <option value="3">
+            3
+           </option>
+           <option value="4">
+            4
+           </option>
+           <option value="5">
+            5
+           </option>
+          </select>
+         </div>
+         <div class="inputset clearfix">
+          <label>
+           Price (&#163;):
+          </label>
+          <select id="minPrice" name="minPrice" class="double">
+           <option value="">
+            No min
+           </option>
+           <option value="50000">
+            50,000
+           </option>
+           <option value="60000">
+            60,000
+           </option>
+           <option value="70000">
+            70,000
+           </option>
+           <option value="80000">
+            80,000
+           </option>
+           <option value="90000">
+            90,000
+           </option>
+           <option value="100000">
+            100,000
+           </option>
+           <option value="110000">
+            110,000
+           </option>
+           <option value="120000">
+            120,000
+           </option>
+           <option value="125000">
+            125,000
+           </option>
+           <option value="130000">
+            130,000
+           </option>
+           <option value="140000">
+            140,000
+           </option>
+           <option value="150000" selected="selected">
+            150,000
+           </option>
+           <option value="160000">
+            160,000
+           </option>
+           <option value="170000">
+            170,000
+           </option>
+           <option value="175000">
+            175,000
+           </option>
+           <option value="180000">
+            180,000
+           </option>
+           <option value="190000">
+            190,000
+           </option>
+           <option value="200000">
+            200,000
+           </option>
+           <option value="210000">
+            210,000
+           </option>
+           <option value="220000">
+            220,000
+           </option>
+           <option value="230000">
+            230,000
+           </option>
+           <option value="240000">
+            240,000
+           </option>
+           <option value="250000">
+            250,000
+           </option>
+           <option value="260000">
+            260,000
+           </option>
+           <option value="270000">
+            270,000
+           </option>
+           <option value="280000">
+            280,000
+           </option>
+           <option value="290000">
+            290,000
+           </option>
+           <option value="300000">
+            300,000
+           </option>
+           <option value="325000">
+            325,000
+           </option>
+           <option value="350000">
+            350,000
+           </option>
+           <option value="375000">
+            375,000
+           </option>
+           <option value="400000">
+            400,000
+           </option>
+           <option value="425000">
+            425,000
+           </option>
+           <option value="450000">
+            450,000
+           </option>
+           <option value="475000">
+            475,000
+           </option>
+           <option value="500000">
+            500,000
+           </option>
+           <option value="550000">
+            550,000
+           </option>
+           <option value="600000">
+            600,000
+           </option>
+           <option value="650000">
+            650,000
+           </option>
+           <option value="700000">
+            700,000
+           </option>
+           <option value="800000">
+            800,000
+           </option>
+           <option value="900000">
+            900,000
+           </option>
+           <option value="1000000">
+            1,000,000
+           </option>
+           <option value="1500000">
+            1,500,000
+           </option>
+           <option value="2000000">
+            2,000,000
+           </option>
+           <option value="3000000">
+            3,000,000
+           </option>
+           <option value="">
+            No min
+           </option>
+          </select>
+          <p>
+           to
+          </p>
+          <select id="maxPrice" name="maxPrice" class="double">
+           <option value="">
+            No max
+           </option>
+           <option value="50000">
+            50,000
+           </option>
+           <option value="60000">
+            60,000
+           </option>
+           <option value="70000">
+            70,000
+           </option>
+           <option value="80000">
+            80,000
+           </option>
+           <option value="90000">
+            90,000
+           </option>
+           <option value="100000">
+            100,000
+           </option>
+           <option value="110000">
+            110,000
+           </option>
+           <option value="120000">
+            120,000
+           </option>
+           <option value="125000">
+            125,000
+           </option>
+           <option value="130000">
+            130,000
+           </option>
+           <option value="140000">
+            140,000
+           </option>
+           <option value="150000">
+            150,000
+           </option>
+           <option value="160000">
+            160,000
+           </option>
+           <option value="170000">
+            170,000
+           </option>
+           <option value="175000">
+            175,000
+           </option>
+           <option value="180000">
+            180,000
+           </option>
+           <option value="190000">
+            190,000
+           </option>
+           <option value="200000">
+            200,000
+           </option>
+           <option value="210000">
+            210,000
+           </option>
+           <option value="220000">
+            220,000
+           </option>
+           <option value="230000">
+            230,000
+           </option>
+           <option value="240000">
+            240,000
+           </option>
+           <option value="250000">
+            250,000
+           </option>
+           <option value="260000">
+            260,000
+           </option>
+           <option value="270000">
+            270,000
+           </option>
+           <option value="280000">
+            280,000
+           </option>
+           <option value="290000">
+            290,000
+           </option>
+           <option value="300000">
+            300,000
+           </option>
+           <option value="325000">
+            325,000
+           </option>
+           <option value="350000">
+            350,000
+           </option>
+           <option value="375000">
+            375,000
+           </option>
+           <option value="400000" selected="selected">
+            400,000
+           </option>
+           <option value="425000">
+            425,000
+           </option>
+           <option value="450000">
+            450,000
+           </option>
+           <option value="475000">
+            475,000
+           </option>
+           <option value="500000">
+            500,000
+           </option>
+           <option value="550000">
+            550,000
+           </option>
+           <option value="600000">
+            600,000
+           </option>
+           <option value="650000">
+            650,000
+           </option>
+           <option value="700000">
+            700,000
+           </option>
+           <option value="800000">
+            800,000
+           </option>
+           <option value="900000">
+            900,000
+           </option>
+           <option value="1000000">
+            1,000,000
+           </option>
+           <option value="1500000">
+            1,500,000
+           </option>
+           <option value="2000000">
+            2,000,000
+           </option>
+           <option value="3000000">
+            3,000,000
+           </option>
+           <option value="">
+            No max
+           </option>
+          </select>
+         </div>
+         <div class="inputset clearfix ">
+          <label>
+           Added:
+          </label>
+          <select id="maxDaysSinceAdded" name="maxDaysSinceAdded" class="short">
+           <option value="" selected="selected">
+            Anytime
+           </option>
+           <option value="1">
+            Last 24 hours
+           </option>
+           <option value="3">
+            Last 3 days
+           </option>
+           <option value="7">
+            Last 7 days
+           </option>
+           <option value="14">
+            Last 14 days
+           </option>
+          </select>
+         </div>
+         <div class="checkboxes clearfix">
+          <input id="includeSSTC1" name="includeSSTC" type="checkbox" value="true" checked="checked" />
+          <input type="hidden" name="_includeSSTC" value="on" />
+          <label>
+           Include Sold STC
+          </label>
+          <a class="priority3 link-furtherinfo" title="Further information" target="_blank" onclick=";return !RIGHTMOVE.UTIL.openAttributeWindowWithName(this.href, '', 'width=650,height=380,left=100,top=95,directories=no,resizable=yes,scrollbars=yes,toolbar=no,menubar=no,titlebar=no,status=yes')" rel="nofollow" href="/stc.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+           Further information
+          </a>
+         </div>
+         <div id="directedhidden">
+          <input id="primaryDisplayPropertyType" name="primaryDisplayPropertyType" type="hidden" value="" />
+          <input id="secondaryDisplayPropertyType" name="secondaryDisplayPropertyType" type="hidden" value="" />
+          <input id="oldDisplayPropertyType" name="oldDisplayPropertyType" type="hidden" value="flats" />
+          <input id="oldPrimaryDisplayPropertyType" name="oldPrimaryDisplayPropertyType" type="hidden" value="" />
+          <input id="newHome" name="newHome" type="hidden" value="" />
+          <input id="auction" name="auction" type="hidden" value="false" />
+          <input id="retirement" name="retirement" type="hidden" value="" />
+          <input id="partBuyPartRent" name="partBuyPartRent" type="hidden" value="" />
+         </div>
+         <input id="sortByPriceDescending" name="sortByPriceDescending" type="hidden" value="" />
+        </fieldset>
+        <div class="inputset clearfix">
+         <div class="submitset">
+          <input id="submit" class="button" type="submit" value="Update Results" />
+         </div>
+        </div>
+       </form>
+      </div>
+      <div id="directedsearch" class="content clearfix">
+       <h3 class="directed">
+        Filter your results
+       </h3>
+       <div id="directedfilters">
+        <ul class="parentcontainer">
+         <li>
+          <span class="header">
+           Preowned & new homes:
+          </span>
+          <ul class="sublinks">
+           <li id="ds-newHome-false" class="parent">
+            <a class="directedSearchFilter" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;newHome=false&amp;includeSSTC=true&amp;_includeSSTC=on">
+             Pre-owned homes
+            </a>
+            <span>
+             (132)
+            </span>
+           </li>
+           <li id="ds-newHome-true" class="parent">
+            <a class="directedSearchFilter" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;newHome=true&amp;includeSSTC=true&amp;_includeSSTC=on">
+             Brand new homes
+            </a>
+            <span>
+             (47)
+            </span>
+           </li>
+          </ul>
+         </li>
+        </ul>
+        <ul class="parentcontainer">
+         <li>
+          <span class="header">
+           Outside space:
+          </span>
+          <ul class="sublinks">
+           <li id="ds-propFeature-Garden" class="parent">
+            <a class="directedSearchFilter" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;propFeature=Garden&amp;includeSSTC=true&amp;_includeSSTC=on">
+             Garden
+            </a>
+            <span>
+             (93)
+            </span>
+           </li>
+           <li id="ds-propFeature-Parking" class="parent">
+            <a class="directedSearchFilter" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;propFeature=Parking&amp;includeSSTC=true&amp;_includeSSTC=on">
+             Parking
+            </a>
+            <span>
+             (161)
+            </span>
+           </li>
+          </ul>
+         </li>
+        </ul>
+        <ul class="parentcontainer">
+         <li>
+          <span class="header">
+           Ways to buy:
+          </span>
+          <ul class="sublinks">
+           <li id="ds-partBuyPartRent-true" class="parent">
+            <a class="directedSearchFilter" title="Shared ownership (Part Buy Part Rent and Shared Equity)" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;partBuyPartRent=true">
+             Shared ownership
+            </a>
+            <span>
+             (5)
+            </span>
+           </li>
+           <li id="ds-partBuyPartRent-false" class="parent">
+            <a class="directedSearchFilter" title="Non-Shared ownership (Not Part Buy Part Rent or Shared Equity)" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on&amp;partBuyPartRent=false">
+             Non-Shared ownership
+            </a>
+            <span>
+             (174)
+            </span>
+           </li>
+          </ul>
+         </li>
+        </ul>
+        <ul class="parentcontainer">
+         <li>
+          <span class="header">
+           Retirement properties:
+          </span>
+          <ul class="sublinks">
+           <li id="ds-retirement-true" class="parent">
+            <a class="directedSearchFilter" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;retirement=true&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+             Retirement
+            </a>
+            <span>
+             (15)
+            </span>
+           </li>
+           <li id="ds-retirement-false" class="parent">
+            <a class="directedSearchFilter" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=POSTCODE%5E3820481&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;retirement=false&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+             Non-retirement
+            </a>
+            <span>
+             (164)
+            </span>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div id="bannerrhs" class="content">
+       <a id="lhsbanner" href="/sell-my-house-fast/" title="Sell My House">
+        <img src="http://media.rightmove.co.uk/banners/00014_Roulette_MPU_sales_251x218_1_Jul2011.jpg.jpg" alt="Sell My House" />
+       </a>
+      </div>
+      <div id="nearbysold" class="content">
+       <h3>
+        Sold prices on nearby streets
+       </h3>
+       <table>
+        <tr>
+         <th>
+          Street
+         </th>
+         <th>
+          Average price
+         </th>
+        </tr>
+        <tr>
+         <td class="street">
+          <a class="link-nearestStreet" rel="nofollow" href="/house-prices/detail.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?outcode=SG5&amp;incode=&amp;streetName=KINGSLEY+AVENUE&amp;locality=STOTFOLD&amp;country=england&amp;buildType=1&amp;propertyType=0&amp;yearSelection=20&amp;columnToSort=DEED_DATE&amp;sortOrder=ascending&amp;summaryIndex=0&amp;hideBackToSummary=true&amp;referrer=nearbyStreetStandardResults">
+           Kingsley Avenue
+          </a>
+         </td>
+         <td class="aveprice">
+          &pound;230,374
+         </td>
+        </tr>
+        <tr>
+         <td class="street">
+          <a class="link-nearestStreet" rel="nofollow" href="/house-prices/detail.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?outcode=SG5&amp;incode=&amp;streetName=MIDDLEMARCH&amp;locality=STOTFOLD&amp;country=england&amp;buildType=1&amp;propertyType=0&amp;yearSelection=20&amp;columnToSort=DEED_DATE&amp;sortOrder=ascending&amp;summaryIndex=0&amp;hideBackToSummary=true&amp;referrer=nearbyStreetStandardResults">
+           Middlemarch
+          </a>
+         </td>
+         <td class="aveprice">
+          &pound;216,330
+         </td>
+        </tr>
+        <tr>
+         <td class="street">
+          <a class="link-nearestStreet" rel="nofollow" href="/house-prices/detail.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?outcode=SG5&amp;incode=&amp;streetName=SHAFTESBURY+DRIVE&amp;locality=STOTFOLD&amp;country=england&amp;buildType=1&amp;propertyType=0&amp;yearSelection=20&amp;columnToSort=DEED_DATE&amp;sortOrder=ascending&amp;summaryIndex=0&amp;hideBackToSummary=true&amp;referrer=nearbyStreetStandardResults">
+           Shaftesbury Drive
+          </a>
+         </td>
+         <td class="aveprice">
+          &pound;624,674
+         </td>
+        </tr>
+        <tr>
+         <td class="street">
+          <a class="link-nearestStreet" rel="nofollow" href="/house-prices/detail.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?outcode=SG5&amp;incode=&amp;streetName=KIPLING+CRESCENT&amp;locality=STOTFOLD&amp;country=england&amp;buildType=1&amp;propertyType=0&amp;yearSelection=20&amp;columnToSort=DEED_DATE&amp;sortOrder=ascending&amp;summaryIndex=0&amp;hideBackToSummary=true&amp;referrer=nearbyStreetStandardResults">
+           Kipling Crescent
+          </a>
+         </td>
+         <td class="aveprice">
+          &pound;237,047
+         </td>
+        </tr>
+        <tr>
+         <td class="street">
+          <a class="link-nearestStreet" rel="nofollow" href="/house-prices/detail.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?outcode=SG5&amp;incode=&amp;streetName=FAIRFIELD+MEWS&amp;locality=STOTFOLD&amp;country=england&amp;buildType=1&amp;propertyType=0&amp;yearSelection=20&amp;columnToSort=DEED_DATE&amp;sortOrder=ascending&amp;summaryIndex=0&amp;hideBackToSummary=true&amp;referrer=nearbyStreetStandardResults">
+           Fairfield Mews
+          </a>
+         </td>
+         <td class="aveprice">
+          &pound;323,900
+         </td>
+        </tr>
+       </table>
+       <p>
+        Source: House price data produced by the Land Registry.
+       </p>
+      </div>
+      <div id="nearby" class="content">
+       <h3>
+        Near SG5 4FX
+       </h3>
+       <ul>
+        <li>
+         <a title="Properties in MK45" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=OUTCODE%5E1647&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+          MK45
+         </a>
+        </li>
+        <li>
+         <a title="Properties in SG6" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=OUTCODE%5E2352&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+          SG6
+         </a>
+        </li>
+        <li>
+         <a title="Properties in LU2" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=OUTCODE%5E1557&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+          LU2
+         </a>
+        </li>
+        <li>
+         <a title="Properties in SG4" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=OUTCODE%5E2350&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+          SG4
+         </a>
+        </li>
+        <li>
+         <a title="Properties in SG18" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=OUTCODE%5E2346&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+          SG18
+         </a>
+        </li>
+        <li>
+         <a title="Properties in SG7" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=OUTCODE%5E2353&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+          SG7
+         </a>
+        </li>
+        <li>
+         <a title="Properties in SG17" rel="nofollow" href="/property-for-sale/find.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D?locationIdentifier=OUTCODE%5E2345&amp;minPrice=150000&amp;maxPrice=400000&amp;displayPropertyType=flats&amp;oldDisplayPropertyType=flats&amp;radius=5.0&amp;includeSSTC=true&amp;_includeSSTC=on">
+          SG17
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <!-- end secondarycontent -->
+    </div>
+   </div>
+   <!-- end pagewrapper -->
+   <div id="sitefooter" class="clearfix">
+    <ul class="footerlinks">
+     <li class="first">
+      This site:
+     </li>
+     <li>
+      <a href="/site-map.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Site Map
+      </a>
+     </li>
+     <li>
+      <a href="/this-site/help.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Help
+      </a>
+     </li>
+     <li>
+      <a href="/this-site/terms-of-use-and-privacy-policy.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Terms of Use &amp; Privacy Policy
+      </a>
+     </li>
+    </ul>
+    <ul class="footerlinks">
+     <li class="first">
+      Rightmove PLC:
+     </li>
+     <li>
+      <a href="/rightmoveplc/about-us.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       About us
+      </a>
+     </li>
+     <li>
+      <a href="/rightmoveplc/rightmove-contacts.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Contact Us
+      </a>
+     </li>
+    </ul>
+    <ul class="footerlinks">
+     <li class="first">
+      Rightmove for professionals:
+     </li>
+     <li>
+      <a href="/for-agents.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Agents and developers
+      </a>
+     </li>
+     <li>
+      <a id="rmplusfooterlink" href="http://www.rightmove.co.uk/rmplus/login/login.action" title="Rightmoveplus">
+       Rightmoveplus
+      </a>
+     </li>
+    </ul>
+    <ul class="footerlinks resources">
+     <li class="first">
+      Resources:
+     </li>
+     <li>
+      <a title="Property Guides" href="/resources/property-guides.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Property Guides
+      </a>
+     </li>
+     <li>
+      <a title="Property to You" href="http://www.rightmove.co.uk/property-to-you/property-to-you">
+       Property to You
+      </a>
+     </li>
+     <li>
+      <a title="House Price Index" href="http://www.rightmove.co.uk/news/house-price-index">
+       House Price Index
+      </a>
+     </li>
+     <li>
+      <a title="Cheap Houses For Sale" href="/cheap-houses-for-sale.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Cheap Houses For Sale
+      </a>
+     </li>
+     <li>
+      <a title="Cheap Flats To Rent" href="/cheap-flats-to-rent.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Cheap Flats To Rent
+      </a>
+     </li>
+     <li>
+      <a title="Mortgage Calculator" href="/mortgage-calculator.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Mortgage Calculator
+      </a>
+     </li>
+     <li class="lastLink">
+      <a title="Sell My House Fast" href="http://www.rightmove.co.uk/sell-my-house-fast/">
+       Sell My House Fast
+      </a>
+     </li>
+    </ul>
+    <ul class="footerlinks">
+     <li class="first">
+      United Kingdom:
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (A-Be)" href="/uk-property-search-a-be.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       A-Be
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Bl-Bu)" href="/uk-property-search-bl-bu.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Bl-Bu
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Ca-Ce)" href="/uk-property-search-ca-ce.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Ca-Ce
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Ch-Con)" href="/uk-property-search-ch-con.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Ch-Con
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Cor-Cu)" href="/uk-property-search-cor-cu.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Cor-Cu
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (D)" href="/uk-property-search-d.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       D
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Ea)" href="/uk-property-search-ea.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Ea
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Ed-F)" href="/uk-property-search-ed-f.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Ed-F
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (G)" href="/uk-property-search-g.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       G
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (H)" href="/uk-property-search-h.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       H
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (I-K)" href="/uk-property-search-i-k.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       I-K
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (L)" href="/uk-property-search-l.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       L
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (M-Ne)" href="/uk-property-search-m-ne.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       M-Ne
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (No)" href="/uk-property-search-no.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       No
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (O-R)" href="/uk-property-search-o-r.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       O-R
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Sc-So)" href="/uk-property-search-sc-so.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Sc-So
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (St-Sw)" href="/uk-property-search-st-sw.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       St-Sw
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (T-V)" href="/uk-property-search-t-v.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       T-V
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Wa-We)" href="/uk-property-search-wa-we.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Wa-We
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Wi-Wr)" href="/uk-property-search-wi-wr.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Wi-Wr
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in the UK (Y)" href="/uk-property-search-y.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Y
+      </a>
+     </li>
+     <li class="lastLink">
+      <a title="Rightmove - Find property in major towns &amp; cities in the UK" href="/major-cities.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Major cities in the UK
+      </a>
+     </li>
+    </ul>
+    <ul class="footerlinks last">
+     <li class="first">
+      London:
+     </li>
+     <li>
+      <a title="Browse London property" href="/property/London.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       London Property
+      </a>
+     </li>
+     <li>
+      <a title="London Property for Sale" href="/property-for-sale/London.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       London Property for Sale
+      </a>
+     </li>
+     <li>
+      <a title="Property to Rent" href="/property-to-rent/London.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       London Property to Rent
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (Ba)" href="/london-property-search-ba.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Ba
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (Be-Br)" href="/london-property-search-be-br.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Be-Br
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (C)" href="/london-property-search-c.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       C
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (E-G)" href="/london-property-search-e-g.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       E-G
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (Ha)" href="/london-property-search-ha.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Ha
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (Hi-Ho)" href="/london-property-search-hi-ho.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Hi-Ho
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (I-K)" href="/london-property-search-i-k.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       I-K
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (L-M)" href="/london-property-search-l-m.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       L-M
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (N-R)" href="/london-property-search-n-r.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       N-R
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (S-T)" href="/london-property-search-s-t.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       S-T
+      </a>
+     </li>
+     <li>
+      <a title="Property for sale or to rent in London (W)" href="/london-property-search-w.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       W
+      </a>
+     </li>
+     <li class="lastLink">
+      <a title="London Popular Regions" href="/london-popular-regions.html/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D">
+       Popular Regions in London
+      </a>
+     </li>
+    </ul>
+   </div>
+   <!--end of sitefooter-->
+  </div>
+  <script type="text/javascript">
+   RIGHTMOVE.USER.accountLightbox.attach({element : ".lightboxSignIn", channel : "buying", loginForm : "#lightboxLogin", registerForm : "#lightboxRegistration", showRegisterOnLoad : false});
+	RIGHTMOVE.USER.accountLightbox.attach({element : ".lightboxCreateAccount", channel : "buying", loginForm : "#lightboxLogin", registerForm : "#lightboxRegistration", showRegisterOnLoad : true });
+  </script>
+  <script type="text/javascript" src="/ps/js11245/concat/searchResults.js">
+  </script>
+  <script type="text/javascript">
+   (function($) { $(function() {
+			var currentSearchCriteria = {"searchUrl":"/property-for-sale/find.html?locationIdentifier=POSTCODE%5E3820481&sortByPriceDescending=true&minPrice=150000&maxPrice=400000&displayPropertyType=flats&radius=5.0","dedupeUrl":"/property-for-sale/find.html?locationIdentifier=POSTCODE%5E3820481&minPrice=150000&maxPrice=400000&displayPropertyType=flats&radius=5.0","buildTimestamp":"11245","createDate":1315710199792,"myRightmoveHtml":"<tr class=\"container\">\n    <td class=\"summary\">\n        <div class=\"description wrap-text\"><span id=\"criteriaString\">Flats / Apartments <span>between<\/span> £150,000-£400,000 <span>in<\/span> <span id='summaryname3820481'>SG5 4FX<\/span> <span>(+5 miles)<\/span><\/span><\/div>\n    <\/td>\n    <td class=\"alerts\">\n        <div class=\"noalert\"><a id=\"setupRSalert\" class=\"setupRSalert\"\n                                title=\"Get property alert emails when new properties match your search\"\n                                href=/property-for-sale/save-search.html?locationIdentifier=POSTCODE%5E3820481&sortByPriceDescending=true&minPrice=150000&maxPrice=400000&displayPropertyType=flats&radius=5.0&source=emailalert&recentSearch=true>Get Property alerts <\/a><\/div>\n    <\/td>\n    <td class=\"actions\">\n        <ul>\n            <li id=\"view\"><a id=\"viewRSresults\" class=\"viewRSresults\" title=\"View results matching this search\"\n                             href=/property-for-sale/find.html?locationIdentifier=POSTCODE%5E3820481&sortByPriceDescending=true&minPrice=150000&maxPrice=400000&displayPropertyType=flats&radius=5.0>View Results<\/a><\/li>\n            <li id=\"change\"><a id=\"saveRSsearch\" class=\"saveRSsearch changesearch \" title=\"Save this search\"\n                               href=/property-for-sale/save-search.html?locationIdentifier=POSTCODE%5E3820481&sortByPriceDescending=true&minPrice=150000&maxPrice=400000&displayPropertyType=flats&radius=5.0&source=savesearch&recentSearch=true>Save Search<\/a><\/li>\n        <\/ul>\n    <\/td>\n<\/tr>"};
+			RIGHTMOVE.RECENTSEARCHES.recentSearches.addToRecentSearches('BUYING',currentSearchCriteria);
+		})})(jQuery);
+(function($) { $(function() {
+        RIGHTMOVE.UTIL.analytics.trackEventOnClick("#interstitial-banner", "buying-search-results","ads","rmplaces-interstitial-neighbourliness2");
+    })})(jQuery);
+(function($) { 
+		if (RIGHTMOVE.TELEPHONEMESSAGE) {
+			RIGHTMOVE.TELEPHONEMESSAGE.attach.init(488, {setCss:false});
+		}
+	})(jQuery);
+(function($) { 
+		if (RIGHTMOVE.TELEPHONEMESSAGE) {
+			RIGHTMOVE.TELEPHONEMESSAGE.attach.init(873, {setCss:false});
+		}
+	})(jQuery);
+(function($) { 
+		if (RIGHTMOVE.TELEPHONEMESSAGE) {
+			RIGHTMOVE.TELEPHONEMESSAGE.attach.init(580, {setCss:false});
+		}
+	})(jQuery);
+(function($) { 
+		if (RIGHTMOVE.TELEPHONEMESSAGE) {
+			RIGHTMOVE.TELEPHONEMESSAGE.attach.init(88, {setCss:false});
+		}
+	})(jQuery);
+(function($) { 
+		if (RIGHTMOVE.TELEPHONEMESSAGE) {
+			RIGHTMOVE.TELEPHONEMESSAGE.attach.init(100, {setCss:false});
+		}
+	})(jQuery);
+(function($) { 
+		if (RIGHTMOVE.TELEPHONEMESSAGE) {
+			RIGHTMOVE.TELEPHONEMESSAGE.attach.init(832, {setCss:false});
+		}
+	})(jQuery);
+(function($) { 
+	RIGHTMOVE.UTIL.analytics.trackEventOnClick('.link-premiumListingPromotion', "buying-search-results","features","upgrade-listing")
+})(jQuery);
+(function($) { 
+	$(window).ready(function () {
+		$('#sliderBottom').pageSlider(18, 1, 10);
+	});
+})(jQuery);
+(function($) { 
+	RIGHTMOVE.UTIL.analytics.trackEventOnClick('#pcactivity', "buying-search-results","ads","price-comparison-banner-bottom-num-registered")
+})(jQuery);
+(function($) { 
+	$(document).ready(RIGHTMOVE.SEARCHRESULTS.mamForm.init);	
+})(jQuery);
+(function($) { 
+				$(function() {
+					$("#summaries li").filter(".premium").each(function() {
+						$(this).premiumDisplayImageViewer();
+					});
+				});
+			})(jQuery);
+(function($) { $(function() {
+		RIGHTMOVE.UTIL.analytics.trackEventOnClick(".dyaresultslink", "buying-search-results","features","draw-a-search-lhs");
+	})})(jQuery);
+(function($) { $(function() {
+			$("#searchResultsInput").rightmoveautocomplete('/typeahead/svr/1711;jsessionid=F9A754C779BE50D76505CF4CA63E0F4D', $('#propertySearchCriteria'));
+			$("#propertySearchCriteria").addSearchLocationEvent();
+		})})(jQuery);
+$(document).ready(function() { new RIGHTMOVE.VALIDATION.FormValidator({"formName":"propertySearchCriteria","formInvalidMessage":"","suppressValidateUntilSubmit":false,"specialValidation":"","fields":[]});});
+(function($) { 
+                    $("#directedsearch .directedSearchFilter").die(".trackEvent").live("click.trackEvent", function() {
+                        RIGHTMOVE.UTIL.analytics.trackEvent("buying-search-results", "filters", $(this).html().toLowerCase().replace(" ", "-"));
+                    });
+                    })(jQuery);
+(function($) { 
+		RIGHTMOVE.UTIL.analytics.trackEventOnClick("#lhsbanner", "buying-search-results","lhs-touchpoint","roulette-mup1")
+	})(jQuery);
+(function($) { 
+	RIGHTMOVE.UTIL.analytics.trackEventOnClick('.link-nearestStreet', "buying-search-results","features","street-prices")
+})(jQuery);
+(function($) { $(function() {
+			RIGHTMOVE.UTIL.typeAheadPersister.addToHistory("POSTCODE^3820481","SG5 4FX");
+		})})(jQuery);
+(function($) { $(function() {RIGHTMOVE.UTIL.sellersAreaLocationPersister.addToLocationList("POSTCODE^3820481","SG5 4FX");})})(jQuery);
+(function($) { $(function() {
+	RIGHTMOVE.UTIL.userPreferencePersister.setChannel("/property-for-sale");
+})})(jQuery);
+(function($) { 
+			RIGHTMOVE.UTIL.menu.myrightmove = {
+				savedsearches: {
+					href: "/user/saved-searches/redirect.html",
+					className: "lightboxSignIn registersource-myrightmove",
+					title: "",
+					text: "Alerts &amp; searches"
+				},
+				savedproperties: {
+					href: "/user/shortlist/redirect.html",
+					className: "lightboxSignIn registersource-myrightmove",
+					title: "",
+					text: "Saved properties"
+				},
+				
+					drawnareas: {
+						href: "/user/drawn-areas.html",
+						className: "lightboxSignIn registersource-myrightmove",
+						title: "",
+						text: "Drawn areas"
+					},
+				
+				mydetails: {
+					href: "/user/details.html",
+					className: "lightboxSignIn registersource-myrightmove",
+					title: "",
+					text: "My details"
+				}
+			};
+		})(jQuery);
+(function($) { 
+	RIGHTMOVE.USER.accountLightbox.persistRegisterAction("#link-myrightmove-register", "global-header")
+	RIGHTMOVE.UTIL.analytics.trackEventOnClick("#link-myrightmove-register", "global-header","features","register")
+})(jQuery);
+(function($) { $(function() {
+							RIGHTMOVE.UTIL.menu.initSubMenu();
+						})})(jQuery);
+(function($) { $(function() {
+				RIGHTMOVE.UTIL.analytics.trackEventOnClick("#headersticker", "sitewide","headersticker","consumerconfidence");
+				
+					// Sitewide event tracking of menu
+					RIGHTMOVE.UTIL.analytics.trackEventHeaderMenuItems("buying/searchresults");
+				})})(jQuery);
+(function($) { $(function() {
+		RIGHTMOVE.UTIL.analytics.trackEventOnClick("#rmplusfooterlink", "homepage","rightmoveplus","footerlink");
+	})})(jQuery);
+  </script>
+  <!-- Begin comScore Tag -->
+  <script type="text/javascript">
+   document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+   COMSCORE.beacon({
+		c1:2,
+		c2:6035627,
+		c3:"",
+		c4:"",
+		c5:"",
+		c6:"",
+		c15:""
+	  });
+  </script>
+  <noscript>
+   <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035627&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" />
+  </noscript>
+  <!-- End comScore Tag -->
+ </body>
+</html>
